@@ -32,7 +32,7 @@ The price_trend.py prediction module can calculate the future value of a specifi
 risk_evaluation.py is a module capable of evaluate the risk of a crypto currency based in the variations of the crypto currencies values stored in the database.  
   :construction: Pending: Implement the creation of a detailed report :construction:
 
-#:round_pushpin: :construction: Main.py :construction: (currently not a CLI here)
+# :round_pushpin: :construction: Main.py :construction: (currently not a CLI here)
 Here I have a CLI builded with click, needed to consume all the functionalities of the app.  
 Lot to fix here since is the first time for me building an CLI:  
   :construction: Need to implement again how to use the functionalities created in the other modules  
