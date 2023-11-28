@@ -1,4 +1,4 @@
-# Coingeko_CLI
+# Coingeko_CLI :frog:
 Crypto console app, coin data, reports, predictions, comparisons and plots
 
 # :round_pushpin: This App 
