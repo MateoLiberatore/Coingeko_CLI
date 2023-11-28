@@ -22,7 +22,7 @@ In the coingeko_plots.py module we have a modified function from the API module 
 
 # :round_pushpin: QUERIES:
 Coingeko_queries is a module created to have gneral information about the data stored in the database.  
-  :construction: Create more queries and a implement it in the CLI :construction:
+  :construction: Create more queries in order to make a general report about teh data stored in the database and a implement it in the CLI :construction:
 
 # :round_pushpin: Price Trend:
 The price_trend.py prediction module can calculate the future value of a specific coin based in the past week values.  
